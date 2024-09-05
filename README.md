@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepak Lenka
+- 👋 Hi, I’m Deepak Lenka
 
 
 <!---
