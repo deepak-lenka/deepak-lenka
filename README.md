@@ -1,4 +1,4 @@
-![Deepak Lenka](https://github.com/your-username/your-repo/raw/main/replicate-prediction-d1r5x2grqxrj60chn8kv4h2b28.WEBP)  
+![Deepak Lenka] 
 <!-- Replace the URL above with the actual path to your uploaded image -->
 
 # 🌟 Deepak Lenka | ML/AI Engineer  
