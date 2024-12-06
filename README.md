@@ -15,14 +15,12 @@ Explore my repositories to see how I use **Python**, **PyTorch**, **LangChain**,
 🌍 **Multilingual AI Systems**: Developing solutions that break language barriers using ASR, TTS, and real-time translation tools.  
 ⚙️ **Optimization & Scaling**: Deploying efficient, large-scale AI systems using fine-tuning, PEFT, LoRA, and distributed architectures. and many more
 
-I believe in making AI accessible and impactful—whether it’s creating **educational tools** for educators, **assistive AI** for accessibility, or **state-of-the-art SDKs** for developers.  
-
 ---
 
 ## 🌟 Featured Projects  
 
 ### 🚀 **[XLanguage: Multilingual Conversational AI Platform](https://github.com/deepak-lenka/XLanguage)**  
-> **Empowering seamless multilingual conversations**  
+> **Seamless multilingual conversations**  
 - Built a platform leveraging **large language models (LLMs)** to support real-time conversations across languages.  
 - Integrated **ASR, TTS**, and **translation APIs** to create a smooth cross-lingual communication experience.  
 - Features **fine-tuned models** for cultural nuances, enhancing usability and accuracy.
