@@ -1,8 +1,7 @@
 
 <!-- Replace the URL above with the actual path to your uploaded image -->
 #  Deepak Lenka | ML/AI Engineer  
-
-Welcome to my GitHub! 🚀  
+  
 I’m Deepak, a passionate **AI Engineer** specializing in building **LLM-powered applications**, **multilingual platforms**, and **AI-driven tools** that bridge the gap between cutting-edge research and practical impact. With a strong foundation in **Generative AI**, **machine learning**, and **AI system optimization**, I thrive on delivering solutions that scale across diverse industries.  
 
 Explore my repositories to see how I use **Python**, **PyTorch**, **LangChain**, and **vector databases** to solve real-world challenges.  
