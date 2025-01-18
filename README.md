@@ -16,30 +16,7 @@ I’m Deepak, a passionate **AI Engineer** specializing in building **LLM-powere
 
 ---
 
-## 🌟 Featured Projects  
 
-### 🚀 **[XLanguage: Multilingual Conversational AI Platform](https://github.com/deepak-lenka/XLanguage)**  
-> **Seamless multilingual conversations**  
-- Built a platform leveraging **large language models (LLMs)** to support real-time conversations across languages.  
-- Integrated **ASR, TTS**, and **translation APIs** to create a smooth cross-lingual communication experience.  
-- Features **fine-tuned models** for cultural nuances, enhancing usability and accuracy.
-
----
-
-### 📘 **[AI-Powered Course Creation Assistant](https://github.com/deepak-lenka/AI-Course-Creator)**  
-> **Revolutionizing education with AI**  
-- Designed an intelligent assistant for instructors to **create and translate course content** into multiple languages.  
-- Utilized **Gemini APIs**, **TTS**, and **animation tools** to automate lecture notes, voiceovers, and multimedia creation.  
-- Deployed as a **web and mobile app** for maximum accessibility.  
-
----
-
-### 🎨 **[Generative AI for Text-to-Image Translation](https://github.com/deepak-lenka/Text-to-Image-Generator)**  
-> **Transforming imagination into reality**  
-- Engineered a pipeline using **Stable Diffusion** and advanced **prompt engineering** techniques to generate realistic images from text.  
-- Fine-tuned models to cater to domain-specific use cases, including **marketing, design, and accessibility**.  
-
----
 
 ## 📜 Skills  
 
