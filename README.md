@@ -5,12 +5,6 @@ I'm Deepak, a passionate **ML&AI Engineer** specializing in building **LLM-power
 ![GitHub followers](https://img.shields.io/github/followers/deepak-lenka?style=social)
 [![Profile Views](https://komarev.com/ghpvc/?username=deepak-lenka&color=blue)](https://github.com/deepak-lenka)
 
-## 🛠️ What I Do
-
-🎯 **Generative AI Applications**: Crafting AI systems that can generate text, images, and speech, tailored to specific domains.  
-🌍 **Multilingual AI Systems**: Developing solutions that break language barriers using ASR, TTS, and real-time translation tools.  
-⚙️ **Optimization & Scaling**: Deploying efficient, large-scale AI systems using fine-tuning, PEFT, LoRA, and distributed architectures.
-
 ## 📜 Skills
 
 - **Programming**: Python, Rust, TypeScript, CUDA (C++ & Triton)
