@@ -11,8 +11,6 @@ I'm Deepak, a passionate **ML&AI Engineer** specializing in building **LLM-power
 - **AI Frameworks**: PyTorch, TensorFlow, JAX
 - **LLMs**: Fine-tuning, prompt engineering, LangChain, RAG workflows
 - **Optimization**: LoRA, PEFT, RLHF, supervised fine-tuning
-- **Deployment**: Docker, FastAPI, Terraform, Pulumi, distributed systems
-- **Databases**: VectorDB, PostgreSQL, MongoDB
 
 ## 🎯 Recent Projects
 
