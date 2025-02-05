@@ -29,7 +29,6 @@ I'm Deepak, a passionate **ML&AI Engineer** specializing in building **LLM-power
 
 ---
 
-### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- Add your blog posts here or remove this section if not applicable -->
 <!-- BLOG-POST-LIST:END -->
