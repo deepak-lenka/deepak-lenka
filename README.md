@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepak Lenka 
 
-A passionate **ML&AI Engineer** specializing in building **LLM-powered applications**, **multilingual platforms**, and **AI-driven tools** that bridge the gap between cutting-edge research and practical applications.
+A passionate **AI/ML Research Engineer** specializing in building **LLM-powered applications**, **multilingual platforms**, and **AI-driven tools** that bridge the gap between cutting-edge research and practical applications.
 
 ![GitHub followers](https://img.shields.io/github/followers/deepak-lenka?style=social)
 [![Profile Views](https://komarev.com/ghpvc/?username=deepak-lenka&color=blue)](https://github.com/deepak-lenka)
